@@ -1,0 +1,5950 @@
+fileFormatVersion: 2
+guid: 252f93c30386fcd439aeddff58c93cec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9043409441593156129
+    second: PC Computer - Planet Centauri - Shiba_0
+  - first:
+      213: -269148493813040715
+    second: PC Computer - Planet Centauri - Shiba_1
+  - first:
+      213: -7173503120888423254
+    second: PC Computer - Planet Centauri - Shiba_2
+  - first:
+      213: -6624100873670605962
+    second: PC Computer - Planet Centauri - Shiba_3
+  - first:
+      213: 1781886028214677164
+    second: PC Computer - Planet Centauri - Shiba_4
+  - first:
+      213: -7812570136145328056
+    second: PC Computer - Planet Centauri - Shiba_5
+  - first:
+      213: -3416513229677250527
+    second: PC Computer - Planet Centauri - Shiba_6
+  - first:
+      213: 9009634963115951900
+    second: PC Computer - Planet Centauri - Shiba_7
+  - first:
+      213: 5308403316261161304
+    second: PC Computer - Planet Centauri - Shiba_8
+  - first:
+      213: 7153396009036426006
+    second: PC Computer - Planet Centauri - Shiba_9
+  - first:
+      213: -542182887307082036
+    second: PC Computer - Planet Centauri - Shiba_10
+  - first:
+      213: -8478046737320605402
+    second: PC Computer - Planet Centauri - Shiba_11
+  - first:
+      213: 8979829537509021387
+    second: PC Computer - Planet Centauri - Shiba_12
+  - first:
+      213: 6503032736340987678
+    second: PC Computer - Planet Centauri - Shiba_13
+  - first:
+      213: 5710999062394806715
+    second: PC Computer - Planet Centauri - Shiba_14
+  - first:
+      213: 5027714732813281229
+    second: PC Computer - Planet Centauri - Shiba_15
+  - first:
+      213: -6368916479233447484
+    second: PC Computer - Planet Centauri - Shiba_16
+  - first:
+      213: 6066254904706148325
+    second: PC Computer - Planet Centauri - Shiba_17
+  - first:
+      213: 1446481913356778280
+    second: PC Computer - Planet Centauri - Shiba_18
+  - first:
+      213: 7268376537002929593
+    second: PC Computer - Planet Centauri - Shiba_19
+  - first:
+      213: 4230926915008536799
+    second: PC Computer - Planet Centauri - Shiba_20
+  - first:
+      213: 3785961600881422998
+    second: PC Computer - Planet Centauri - Shiba_21
+  - first:
+      213: 1100716568057555928
+    second: PC Computer - Planet Centauri - Shiba_22
+  - first:
+      213: 2862605289760963157
+    second: PC Computer - Planet Centauri - Shiba_23
+  - first:
+      213: -4188715835513272234
+    second: PC Computer - Planet Centauri - Shiba_24
+  - first:
+      213: 8679453823943037190
+    second: PC Computer - Planet Centauri - Shiba_25
+  - first:
+      213: 2891336097588007945
+    second: PC Computer - Planet Centauri - Shiba_26
+  - first:
+      213: -693497388311195245
+    second: PC Computer - Planet Centauri - Shiba_27
+  - first:
+      213: -53651208901772434
+    second: PC Computer - Planet Centauri - Shiba_28
+  - first:
+      213: -5653228943462488903
+    second: PC Computer - Planet Centauri - Shiba_29
+  - first:
+      213: -1989171607520017436
+    second: PC Computer - Planet Centauri - Shiba_30
+  - first:
+      213: 5788077100698449205
+    second: PC Computer - Planet Centauri - Shiba_31
+  - first:
+      213: -8973893185845940495
+    second: PC Computer - Planet Centauri - Shiba_32
+  - first:
+      213: 1687263143571258096
+    second: PC Computer - Planet Centauri - Shiba_33
+  - first:
+      213: -4795256523137345739
+    second: PC Computer - Planet Centauri - Shiba_34
+  - first:
+      213: 3352651717198189322
+    second: PC Computer - Planet Centauri - Shiba_35
+  - first:
+      213: 4953763354185705308
+    second: PC Computer - Planet Centauri - Shiba_36
+  - first:
+      213: -4890510712962975137
+    second: PC Computer - Planet Centauri - Shiba_37
+  - first:
+      213: 6219092224643438441
+    second: PC Computer - Planet Centauri - Shiba_38
+  - first:
+      213: 1650203200080442821
+    second: PC Computer - Planet Centauri - Shiba_39
+  - first:
+      213: 1131040505550194093
+    second: PC Computer - Planet Centauri - Shiba_40
+  - first:
+      213: 1131430214852341849
+    second: PC Computer - Planet Centauri - Shiba_41
+  - first:
+      213: -308040750222091690
+    second: PC Computer - Planet Centauri - Shiba_42
+  - first:
+      213: -6052020555637851712
+    second: PC Computer - Planet Centauri - Shiba_43
+  - first:
+      213: 8878386328280470088
+    second: PC Computer - Planet Centauri - Shiba_44
+  - first:
+      213: 2750744433889366252
+    second: PC Computer - Planet Centauri - Shiba_45
+  - first:
+      213: 2399031510761113732
+    second: PC Computer - Planet Centauri - Shiba_46
+  - first:
+      213: -3664033693496618972
+    second: PC Computer - Planet Centauri - Shiba_47
+  - first:
+      213: -3813241813648664393
+    second: PC Computer - Planet Centauri - Shiba_48
+  - first:
+      213: -8327468713015384385
+    second: PC Computer - Planet Centauri - Shiba_49
+  - first:
+      213: -1116986277328623416
+    second: PC Computer - Planet Centauri - Shiba_50
+  - first:
+      213: 7204254423113826609
+    second: PC Computer - Planet Centauri - Shiba_51
+  - first:
+      213: -3635569889461861270
+    second: PC Computer - Planet Centauri - Shiba_52
+  - first:
+      213: -2898554443645142490
+    second: PC Computer - Planet Centauri - Shiba_53
+  - first:
+      213: 16003464405876383
+    second: PC Computer - Planet Centauri - Shiba_54
+  - first:
+      213: 7307293596261439171
+    second: PC Computer - Planet Centauri - Shiba_55
+  - first:
+      213: 387783802487290385
+    second: PC Computer - Planet Centauri - Shiba_56
+  - first:
+      213: -6337082310172206371
+    second: PC Computer - Planet Centauri - Shiba_57
+  - first:
+      213: -135101599424133236
+    second: PC Computer - Planet Centauri - Shiba_58
+  - first:
+      213: 4789034809255891345
+    second: PC Computer - Planet Centauri - Shiba_59
+  - first:
+      213: 797615176629279539
+    second: PC Computer - Planet Centauri - Shiba_60
+  - first:
+      213: 5241148401086548138
+    second: PC Computer - Planet Centauri - Shiba_61
+  - first:
+      213: -6154691843731171497
+    second: PC Computer - Planet Centauri - Shiba_62
+  - first:
+      213: -9082001787810498241
+    second: PC Computer - Planet Centauri - Shiba_63
+  - first:
+      213: -1274394086441068314
+    second: PC Computer - Planet Centauri - Shiba_64
+  - first:
+      213: -1861630156167462057
+    second: PC Computer - Planet Centauri - Shiba_65
+  - first:
+      213: -8555810668423315276
+    second: PC Computer - Planet Centauri - Shiba_66
+  - first:
+      213: -5590549111054499182
+    second: PC Computer - Planet Centauri - Shiba_67
+  - first:
+      213: 5315963414678013763
+    second: PC Computer - Planet Centauri - Shiba_68
+  - first:
+      213: -6663851523107105721
+    second: PC Computer - Planet Centauri - Shiba_69
+  - first:
+      213: 8701584960975496735
+    second: PC Computer - Planet Centauri - Shiba_70
+  - first:
+      213: -7261827782713090043
+    second: PC Computer - Planet Centauri - Shiba_71
+  - first:
+      213: -2456126250311233469
+    second: PC Computer - Planet Centauri - Shiba_72
+  - first:
+      213: 1902775466156549732
+    second: PC Computer - Planet Centauri - Shiba_73
+  - first:
+      213: 4182145160256563046
+    second: PC Computer - Planet Centauri - Shiba_74
+  - first:
+      213: 5287457724198767913
+    second: PC Computer - Planet Centauri - Shiba_75
+  - first:
+      213: -5053887379177116798
+    second: PC Computer - Planet Centauri - Shiba_76
+  - first:
+      213: 3336822782572224599
+    second: PC Computer - Planet Centauri - Shiba_77
+  - first:
+      213: 3798327656215632576
+    second: PC Computer - Planet Centauri - Shiba_78
+  - first:
+      213: -7200554851797983273
+    second: PC Computer - Planet Centauri - Shiba_79
+  - first:
+      213: 1718541372299706528
+    second: PC Computer - Planet Centauri - Shiba_80
+  - first:
+      213: 8525228381280406975
+    second: PC Computer - Planet Centauri - Shiba_81
+  - first:
+      213: -7036371516043992007
+    second: PC Computer - Planet Centauri - Shiba_82
+  - first:
+      213: -505619285688278819
+    second: PC Computer - Planet Centauri - Shiba_83
+  - first:
+      213: -8835117617920378609
+    second: PC Computer - Planet Centauri - Shiba_84
+  - first:
+      213: 1999057312088605226
+    second: PC Computer - Planet Centauri - Shiba_85
+  - first:
+      213: 864521710618105288
+    second: PC Computer - Planet Centauri - Shiba_86
+  - first:
+      213: -4928633270734065007
+    second: PC Computer - Planet Centauri - Shiba_87
+  - first:
+      213: 5836079788200535573
+    second: PC Computer - Planet Centauri - Shiba_88
+  - first:
+      213: 2192096977218017476
+    second: PC Computer - Planet Centauri - Shiba_89
+  - first:
+      213: -4350985637718259763
+    second: PC Computer - Planet Centauri - Shiba_90
+  - first:
+      213: -599543399399613284
+    second: PC Computer - Planet Centauri - Shiba_91
+  - first:
+      213: 8344908757083931292
+    second: PC Computer - Planet Centauri - Shiba_92
+  - first:
+      213: 4284455135335326500
+    second: PC Computer - Planet Centauri - Shiba_93
+  - first:
+      213: -7342432257206147605
+    second: PC Computer - Planet Centauri - Shiba_94
+  - first:
+      213: -6210754845611492804
+    second: PC Computer - Planet Centauri - Shiba_95
+  - first:
+      213: -7097822242069005358
+    second: PC Computer - Planet Centauri - Shiba_96
+  - first:
+      213: 735370296343902991
+    second: PC Computer - Planet Centauri - Shiba_97
+  - first:
+      213: 8107031740954926495
+    second: PC Computer - Planet Centauri - Shiba_98
+  - first:
+      213: -8917092244118434629
+    second: PC Computer - Planet Centauri - Shiba_99
+  - first:
+      213: -7184343447079461369
+    second: PC Computer - Planet Centauri - Shiba_100
+  - first:
+      213: -7001938305525318508
+    second: PC Computer - Planet Centauri - Shiba_101
+  - first:
+      213: -2370304485083589563
+    second: PC Computer - Planet Centauri - Shiba_102
+  - first:
+      213: 704424830877072294
+    second: PC Computer - Planet Centauri - Shiba_103
+  - first:
+      213: -6996794204855507536
+    second: PC Computer - Planet Centauri - Shiba_104
+  - first:
+      213: -4244999942999083095
+    second: PC Computer - Planet Centauri - Shiba_105
+  - first:
+      213: -3455021035403564062
+    second: PC Computer - Planet Centauri - Shiba_106
+  - first:
+      213: -4391338621464441709
+    second: PC Computer - Planet Centauri - Shiba_107
+  - first:
+      213: 3798939656995681287
+    second: PC Computer - Planet Centauri - Shiba_108
+  - first:
+      213: -8699043063412692148
+    second: PC Computer - Planet Centauri - Shiba_109
+  - first:
+      213: -3080297477981967362
+    second: PC Computer - Planet Centauri - Shiba_110
+  - first:
+      213: -1793294222023976901
+    second: PC Computer - Planet Centauri - Shiba_111
+  - first:
+      213: 4916146877158586538
+    second: PC Computer - Planet Centauri - Shiba_112
+  - first:
+      213: 3137167084359033083
+    second: PC Computer - Planet Centauri - Shiba_113
+  - first:
+      213: -4475138631125655766
+    second: PC Computer - Planet Centauri - Shiba_114
+  - first:
+      213: -5592921912187596707
+    second: PC Computer - Planet Centauri - Shiba_115
+  - first:
+      213: 8875349059346049889
+    second: PC Computer - Planet Centauri - Shiba_116
+  - first:
+      213: 8573483903969809671
+    second: PC Computer - Planet Centauri - Shiba_117
+  - first:
+      213: 2077124171910276991
+    second: PC Computer - Planet Centauri - Shiba_118
+  - first:
+      213: -1345152950204083820
+    second: PC Computer - Planet Centauri - Shiba_119
+  - first:
+      213: 8661041296783517072
+    second: PC Computer - Planet Centauri - Shiba_120
+  - first:
+      213: 8428837997134404977
+    second: PC Computer - Planet Centauri - Shiba_121
+  - first:
+      213: -3009533197133510953
+    second: PC Computer - Planet Centauri - Shiba_122
+  - first:
+      213: 7745628911541761728
+    second: PC Computer - Planet Centauri - Shiba_123
+  - first:
+      213: 1550554285534197156
+    second: PC Computer - Planet Centauri - Shiba_124
+  - first:
+      213: 2998020303379768750
+    second: PC Computer - Planet Centauri - Shiba_125
+  - first:
+      213: 4728176703145828707
+    second: PC Computer - Planet Centauri - Shiba_126
+  - first:
+      213: -1346614083045333496
+    second: PC Computer - Planet Centauri - Shiba_127
+  - first:
+      213: -7853629835774755865
+    second: PC Computer - Planet Centauri - Shiba_128
+  - first:
+      213: -962610788061528163
+    second: PC Computer - Planet Centauri - Shiba_129
+  - first:
+      213: -4887292656960234832
+    second: PC Computer - Planet Centauri - Shiba_130
+  - first:
+      213: -6073944028921898206
+    second: PC Computer - Planet Centauri - Shiba_131
+  - first:
+      213: -2650864366767291858
+    second: PC Computer - Planet Centauri - Shiba_132
+  - first:
+      213: -5616806354215922448
+    second: PC Computer - Planet Centauri - Shiba_133
+  - first:
+      213: -1013955993438088622
+    second: PC Computer - Planet Centauri - Shiba_134
+  - first:
+      213: -2222230351796057411
+    second: PC Computer - Planet Centauri - Shiba_135
+  - first:
+      213: -2094210537014619049
+    second: PC Computer - Planet Centauri - Shiba_136
+  - first:
+      213: 7455676331819526270
+    second: PC Computer - Planet Centauri - Shiba_137
+  - first:
+      213: -92552811995148220
+    second: PC Computer - Planet Centauri - Shiba_138
+  - first:
+      213: 2659994873373833621
+    second: PC Computer - Planet Centauri - Shiba_139
+  - first:
+      213: -6312104247492935308
+    second: PC Computer - Planet Centauri - Shiba_140
+  - first:
+      213: 7316183087344446159
+    second: PC Computer - Planet Centauri - Shiba_141
+  - first:
+      213: -4642307190884158917
+    second: PC Computer - Planet Centauri - Shiba_142
+  - first:
+      213: 1280119945272188812
+    second: PC Computer - Planet Centauri - Shiba_143
+  - first:
+      213: 5526286189049813218
+    second: PC Computer - Planet Centauri - Shiba_144
+  - first:
+      213: -5973356030509527875
+    second: PC Computer - Planet Centauri - Shiba_145
+  - first:
+      213: 4028103770990470263
+    second: PC Computer - Planet Centauri - Shiba_146
+  - first:
+      213: 2005377496188180655
+    second: PC Computer - Planet Centauri - Shiba_147
+  - first:
+      213: -3112776280142239704
+    second: PC Computer - Planet Centauri - Shiba_148
+  - first:
+      213: -5283813996001045784
+    second: PC Computer - Planet Centauri - Shiba_149
+  - first:
+      213: -5971053662617366023
+    second: PC Computer - Planet Centauri - Shiba_150
+  - first:
+      213: -9142438928024941601
+    second: PC Computer - Planet Centauri - Shiba_151
+  - first:
+      213: -7173220975024750117
+    second: PC Computer - Planet Centauri - Shiba_152
+  - first:
+      213: 4369163761020749647
+    second: PC Computer - Planet Centauri - Shiba_153
+  - first:
+      213: 6137758739733435365
+    second: PC Computer - Planet Centauri - Shiba_154
+  - first:
+      213: 7780639042337756733
+    second: PC Computer - Planet Centauri - Shiba_155
+  - first:
+      213: -1751822010851966577
+    second: PC Computer - Planet Centauri - Shiba_156
+  - first:
+      213: -5707290289993536419
+    second: PC Computer - Planet Centauri - Shiba_157
+  - first:
+      213: -843400605180153836
+    second: PC Computer - Planet Centauri - Shiba_158
+  - first:
+      213: 794005840617133826
+    second: PC Computer - Planet Centauri - Shiba_159
+  - first:
+      213: 9122723709210435865
+    second: PC Computer - Planet Centauri - Shiba_160
+  - first:
+      213: -3653763250837611316
+    second: PC Computer - Planet Centauri - Shiba_161
+  - first:
+      213: -6801378014032907920
+    second: PC Computer - Planet Centauri - Shiba_162
+  - first:
+      213: 5154248958574439081
+    second: PC Computer - Planet Centauri - Shiba_163
+  - first:
+      213: 3554104115430093548
+    second: PC Computer - Planet Centauri - Shiba_164
+  - first:
+      213: -4382874739135696167
+    second: PC Computer - Planet Centauri - Shiba_165
+  - first:
+      213: -6710425351966610765
+    second: PC Computer - Planet Centauri - Shiba_166
+  - first:
+      213: 1564099363282494397
+    second: PC Computer - Planet Centauri - Shiba_167
+  - first:
+      213: 9212601466115426877
+    second: PC Computer - Planet Centauri - Shiba_168
+  - first:
+      213: -8549641797908372269
+    second: PC Computer - Planet Centauri - Shiba_169
+  - first:
+      213: -6622748133487246926
+    second: PC Computer - Planet Centauri - Shiba_170
+  - first:
+      213: -7331830217987899846
+    second: PC Computer - Planet Centauri - Shiba_171
+  - first:
+      213: -3003491850395156209
+    second: PC Computer - Planet Centauri - Shiba_172
+  - first:
+      213: 1170754682843925552
+    second: PC Computer - Planet Centauri - Shiba_173
+  - first:
+      213: -766563580314802499
+    second: PC Computer - Planet Centauri - Shiba_174
+  - first:
+      213: 1814553995574760637
+    second: PC Computer - Planet Centauri - Shiba_175
+  - first:
+      213: -7334765112523775125
+    second: PC Computer - Planet Centauri - Shiba_176
+  - first:
+      213: 3240712323323456952
+    second: PC Computer - Planet Centauri - Shiba_177
+  - first:
+      213: -5810195151747512339
+    second: PC Computer - Planet Centauri - Shiba_178
+  - first:
+      213: -7156946277609529136
+    second: PC Computer - Planet Centauri - Shiba_179
+  - first:
+      213: -1933427407095212749
+    second: PC Computer - Planet Centauri - Shiba_180
+  - first:
+      213: 3450609955868259493
+    second: PC Computer - Planet Centauri - Shiba_181
+  - first:
+      213: 6730392714753948668
+    second: PC Computer - Planet Centauri - Shiba_182
+  - first:
+      213: 1369243153943999478
+    second: PC Computer - Planet Centauri - Shiba_183
+  - first:
+      213: -8122901009349888108
+    second: PC Computer - Planet Centauri - Shiba_184
+  - first:
+      213: -4812091164509568221
+    second: PC Computer - Planet Centauri - Shiba_185
+  - first:
+      213: 5064126620784720252
+    second: PC Computer - Planet Centauri - Shiba_186
+  - first:
+      213: -3671957174743973512
+    second: PC Computer - Planet Centauri - Shiba_187
+  - first:
+      213: 3966320135752762116
+    second: PC Computer - Planet Centauri - Shiba_188
+  - first:
+      213: -7155309970496851361
+    second: PC Computer - Planet Centauri - Shiba_189
+  - first:
+      213: -6228270209711082079
+    second: PC Computer - Planet Centauri - Shiba_190
+  - first:
+      213: 9115287704353795031
+    second: PC Computer - Planet Centauri - Shiba_191
+  - first:
+      213: 3535828419396398591
+    second: PC Computer - Planet Centauri - Shiba_192
+  - first:
+      213: 3393412835787172425
+    second: PC Computer - Planet Centauri - Shiba_193
+  - first:
+      213: -8198061319897583388
+    second: PC Computer - Planet Centauri - Shiba_194
+  - first:
+      213: -3337304843114998190
+    second: PC Computer - Planet Centauri - Shiba_195
+  - first:
+      213: -6052701212188282763
+    second: PC Computer - Planet Centauri - Shiba_196
+  - first:
+      213: -1492188833763217391
+    second: PC Computer - Planet Centauri - Shiba_197
+  - first:
+      213: 1570797194931891294
+    second: PC Computer - Planet Centauri - Shiba_198
+  - first:
+      213: -7442721447884330482
+    second: PC Computer - Planet Centauri - Shiba_199
+  - first:
+      213: 8700583946835377685
+    second: PC Computer - Planet Centauri - Shiba_200
+  - first:
+      213: -6287599239739514373
+    second: PC Computer - Planet Centauri - Shiba_201
+  - first:
+      213: 3361328457377736706
+    second: PC Computer - Planet Centauri - Shiba_202
+  - first:
+      213: 8244733229737195104
+    second: PC Computer - Planet Centauri - Shiba_203
+  - first:
+      213: -7208277093931267825
+    second: PC Computer - Planet Centauri - Shiba_204
+  - first:
+      213: -2377919964856759037
+    second: PC Computer - Planet Centauri - Shiba_205
+  - first:
+      213: 7775095397156870733
+    second: PC Computer - Planet Centauri - Shiba_206
+  - first:
+      213: -5316146519504889383
+    second: PC Computer - Planet Centauri - Shiba_207
+  - first:
+      213: 4094696853737406590
+    second: PC Computer - Planet Centauri - Shiba_208
+  - first:
+      213: 5937195565120088090
+    second: PC Computer - Planet Centauri - Shiba_209
+  - first:
+      213: -1046654530335990425
+    second: PC Computer - Planet Centauri - Shiba_210
+  - first:
+      213: -578987076709677629
+    second: PC Computer - Planet Centauri - Shiba_211
+  - first:
+      213: 2214128979059499639
+    second: PC Computer - Planet Centauri - Shiba_212
+  - first:
+      213: 1175195478591012743
+    second: PC Computer - Planet Centauri - Shiba_213
+  - first:
+      213: 592635813153760179
+    second: PC Computer - Planet Centauri - Shiba_214
+  - first:
+      213: -2222821793367000974
+    second: PC Computer - Planet Centauri - Shiba_215
+  - first:
+      213: 8173741685089218329
+    second: PC Computer - Planet Centauri - Shiba_216
+  - first:
+      213: 7989652139993172754
+    second: PC Computer - Planet Centauri - Shiba_217
+  - first:
+      213: 4445905475333859799
+    second: PC Computer - Planet Centauri - Shiba_218
+  - first:
+      213: -4701537533583430076
+    second: PC Computer - Planet Centauri - Shiba_219
+  - first:
+      213: 4934623313097647726
+    second: PC Computer - Planet Centauri - Shiba_220
+  - first:
+      213: -6237565288158741989
+    second: PC Computer - Planet Centauri - Shiba_221
+  - first:
+      213: -410323939793871464
+    second: PC Computer - Planet Centauri - Shiba_222
+  - first:
+      213: 3425457329399758544
+    second: PC Computer - Planet Centauri - Shiba_223
+  - first:
+      213: 2420574969961235569
+    second: PC Computer - Planet Centauri - Shiba_224
+  - first:
+      213: 5073032267752500482
+    second: PC Computer - Planet Centauri - Shiba_225
+  - first:
+      213: 5617561783545277475
+    second: PC Computer - Planet Centauri - Shiba_226
+  - first:
+      213: 6634505778868720185
+    second: PC Computer - Planet Centauri - Shiba_227
+  - first:
+      213: 7374341859355888530
+    second: PC Computer - Planet Centauri - Shiba_228
+  - first:
+      213: 2486418225645933696
+    second: PC Computer - Planet Centauri - Shiba_229
+  - first:
+      213: 1453141341065672572
+    second: PC Computer - Planet Centauri - Shiba_230
+  - first:
+      213: -3349953910217726457
+    second: PC Computer - Planet Centauri - Shiba_231
+  - first:
+      213: -7108888703786141047
+    second: PC Computer - Planet Centauri - Shiba_232
+  - first:
+      213: 6411991206130694826
+    second: PC Computer - Planet Centauri - Shiba_233
+  - first:
+      213: 8744672389559613540
+    second: PC Computer - Planet Centauri - Shiba_234
+  - first:
+      213: 5670715527488340269
+    second: PC Computer - Planet Centauri - Shiba_235
+  - first:
+      213: -8688019165735872654
+    second: PC Computer - Planet Centauri - Shiba_236
+  - first:
+      213: -7984152632813779322
+    second: PC Computer - Planet Centauri - Shiba_237
+  - first:
+      213: 792854208558842274
+    second: PC Computer - Planet Centauri - Shiba_238
+  - first:
+      213: -474973934749736443
+    second: PC Computer - Planet Centauri - Shiba_239
+  - first:
+      213: -1609113702880333712
+    second: PC Computer - Planet Centauri - Shiba_240
+  - first:
+      213: 429258637355264602
+    second: PC Computer - Planet Centauri - Shiba_241
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1d63e60b5f7280800000000000000
+      internalID: -9043409441593156129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 344
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93172fedac34cf0800000000000000
+      internalID: -269148493813040715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 344
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac1a4c1be8927c90800000000000000
+      internalID: -7173503120888423254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 344
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734284f9577214a0800000000000000
+      internalID: -6624100873670605962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea7fdd6e78ab810800000000000000
+      internalID: 1781886028214677164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8488b3c9adc249390800000000000000
+      internalID: -7812570136145328056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283aaea15b1690d0800000000000000
+      internalID: -3416513229677250527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17477c8347a80d70800000000000000
+      internalID: 9009634963115951900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_8
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 298
+        width: 168
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598046e0bc3ba940800000000000000
+      internalID: 5308403316261161304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b205815c7f54360800000000000000
+      internalID: 7153396009036426006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 316
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc604ce5987c978f0800000000000000
+      internalID: -542182887307082036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 316
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62988d8396de75a80800000000000000
+      internalID: -8478046737320605402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 316
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc619ce1363ce9c70800000000000000
+      internalID: 8979829537509021387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 316
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4754b1d96f3a50800000000000000
+      internalID: 6503032736340987678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 316
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a1aa936b814f40800000000000000
+      internalID: 5710999062394806715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 316
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7655959e706c540800000000000000
+      internalID: 5027714732813281229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 316
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a823c4301d97a0800000000000000
+      internalID: -6368916479233447484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 316
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72bf702baaf2450800000000000000
+      internalID: 6066254904706148325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 316
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b78abe2afe21410800000000000000
+      internalID: 1446481913356778280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 316
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bde7dd63f57ed460800000000000000
+      internalID: 7268376537002929593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 316
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd029bfdc9547ba30800000000000000
+      internalID: 4230926915008536799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 316
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927ec164007a8430800000000000000
+      internalID: 3785961600881422998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_22
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 316
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db257503e7864f00800000000000000
+      internalID: 1100716568057555928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 316
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3b5428540ab720800000000000000
+      internalID: 2862605289760963157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_24
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 316
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588d2fe321bed5c0800000000000000
+      internalID: -4188715835513272234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 316
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d784644d937870800000000000000
+      internalID: 8679453823943037190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_26
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 316
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045ffe9cd6102820800000000000000
+      internalID: 2891336097588007945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391dc05bcc33066f0800000000000000
+      internalID: -693497388311195245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 286
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb3af7284614ff0800000000000000
+      internalID: -53651208901772434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 286
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b426fe5a32bb81b0800000000000000
+      internalID: -5653228943462488903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 286
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30a7846fa0564e0800000000000000
+      internalID: -1989171607520017436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 286
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53534bfd471635050800000000000000
+      internalID: 5788077100698449205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 286
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feaa5571b3567380800000000000000
+      internalID: -8973893185845940495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 286
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7c2bb3ec5a6710800000000000000
+      internalID: 1687263143571258096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 286
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537168b3993d37db0800000000000000
+      internalID: -4795256523137345739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 286
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03933349f2078e20800000000000000
+      internalID: 3352651717198189322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 286
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c572693468d4fb440800000000000000
+      internalID: 4953763354185705308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_37
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 286
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7997ea6a612cb0800000000000000
+      internalID: -4890510712962975137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 286
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967144b9d67ae4650800000000000000
+      internalID: 6219092224643438441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_39
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 286
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f10c3113b6e610800000000000000
+      internalID: 1650203200080442821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c5e7e85342bf00800000000000000
+      internalID: 1131040505550194093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_41
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950fa6c29c5a3bf00800000000000000
+      internalID: 1131430214852341849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65adaaad19e99bbf0800000000000000
+      internalID: -308040750222091690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_43
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f7df9e57e20ca0800000000000000
+      internalID: -6052020555637851712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84297db635d563b70800000000000000
+      internalID: 8878386328280470088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 261
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0dbd11d7b9c2620800000000000000
+      internalID: 2750744433889366252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 261
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48882ebc2721b4120800000000000000
+      internalID: 2399031510761113732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 261
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205216c4ccb62dc0800000000000000
+      internalID: -3664033693496618972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 261
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81ece16c4a41bc0800000000000000
+      internalID: -3813241813648664393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 261
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e98a8353ee6c80800000000000000
+      internalID: -8327468713015384385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 261
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c867d816eaaf70f0800000000000000
+      internalID: -1116986277328623416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 261
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1318c316a37aaf360800000000000000
+      internalID: 7204254423113826609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 261
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640586927cdb8dc0800000000000000
+      internalID: -3635569889461861270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 261
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab668371446c7d0800000000000000
+      internalID: -2898554443645142490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 261
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e761be01bd83000800000000000000
+      internalID: 16003464405876383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_55
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 261
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c656a26fc8b86560800000000000000
+      internalID: 7307293596261439171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 261
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ab7e4505fa16500800000000000000
+      internalID: 387783802487290385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_57
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 261
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda16c5d6392e08a0800000000000000
+      internalID: -6337082310172206371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_58
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 261
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ccb5afc5002ef0800000000000000
+      internalID: -135101599424133236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 261
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1919dae19c1167240800000000000000
+      internalID: 4789034809255891345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_60
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 261
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd276f6c2b11b00800000000000000
+      internalID: 797615176629279539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_61
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 261
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ced5b3bc4cb840800000000000000
+      internalID: 5241148401086548138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_62
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 261
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d8688064269aa0800000000000000
+      internalID: -6154691843731171497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_63
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 261
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b7141e7f36f180800000000000000
+      internalID: -9082001787810498241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_64
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 261
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e852d59451705ee0800000000000000
+      internalID: -1274394086441068314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_65
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 261
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753cb7e7c392a26e0800000000000000
+      internalID: -1861630156167462057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_66
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 261
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b081271787a34980800000000000000
+      internalID: -8555810668423315276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_67
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 264
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292883814316a62b0800000000000000
+      internalID: -5590549111054499182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3470bda7f8816c940800000000000000
+      internalID: 5315963414678013763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 233
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445149a85e3583a0800000000000000
+      internalID: -6663851523107105721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 233
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1663d54b6d32c870800000000000000
+      internalID: 8701584960975496735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 233
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e25f3b1ec83b90800000000000000
+      internalID: -7261827782713090043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 233
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340dfae30361aedd0800000000000000
+      internalID: -2456126250311233469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 233
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e6938434086a10800000000000000
+      internalID: 1902775466156549732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 233
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66726348dd6f90a30800000000000000
+      internalID: 4182145160256563046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 233
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d43c739c2d06940800000000000000
+      internalID: 5287457724198767913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_76
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 233
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b615d843cfcd9b0800000000000000
+      internalID: -5053887379177116798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_77
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 233
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e5a934a6ce4e20800000000000000
+      internalID: 3336822782572224599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_78
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 233
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca564101ee56b430800000000000000
+      internalID: 3798327656215632576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 233
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df9dd0338d721c90800000000000000
+      internalID: -7200554851797983273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_80
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 233
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a08cbbd54c79d710800000000000000
+      internalID: 1718541372299706528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_81
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 233
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd0c4f4b02bf4670800000000000000
+      internalID: 8525228381280406975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_82
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 233
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934658ee269c95e90800000000000000
+      internalID: -7036371516043992007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 233
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0a6f440fdabf8f0800000000000000
+      internalID: -505619285688278819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_84
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 233
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097f03465b536580800000000000000
+      internalID: -8835117617920378609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 233
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2240bca8041ebb10800000000000000
+      internalID: 1999057312088605226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_86
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 233
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c551065ae56ffb00800000000000000
+      internalID: 864521710618105288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_87
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 233
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19279bd372af99bb0800000000000000
+      internalID: -4928633270734065007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_88
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 233
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516a78085abedf050800000000000000
+      internalID: 5836079788200535573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_89
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c899482694eb6e10800000000000000
+      internalID: 2192096977218017476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_90
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70af07d913e93c0800000000000000
+      internalID: -4350985637718259763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_91
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1b5b647efda7f0800000000000000
+      internalID: -599543399399613284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92c8052d421fc370800000000000000
+      internalID: 8344908757083931292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 208
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423a2cdde31757b30800000000000000
+      internalID: 4284455135335326500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_94
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 208
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5abd193c07a1a90800000000000000
+      internalID: -7342432257206147605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 208
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7a48bf57fec9a0800000000000000
+      internalID: -6210754845611492804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3c96d6487f7d90800000000000000
+      internalID: -7097822242069005358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_97
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 208
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb3fb636f843a00800000000000000
+      internalID: 735370296343902991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d5f6e5a66f18070800000000000000
+      internalID: 8107031740954926495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_99
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 208
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0ee749df104480800000000000000
+      internalID: -8917092244118434629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_100
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 208
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5c6cf2b51c4c90800000000000000
+      internalID: -7184343447079461369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_101
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 208
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c76ff753e14de90800000000000000
+      internalID: -7001938305525318508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d31511acfa1fd0800000000000000
+      internalID: -2370304485083589563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_103
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 208
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab7467c6ae96c900800000000000000
+      internalID: 704424830877072294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_104
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 208
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b56315cdb466ee90800000000000000
+      internalID: -6996794204855507536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_105
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 208
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a77cf5fa0bb615c0800000000000000
+      internalID: -4244999942999083095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_106
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 208
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eba44d7cac4d00d0800000000000000
+      internalID: -3455021035403564062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_107
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 208
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c88234ac4de03c0800000000000000
+      internalID: -4391338621464441709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_108
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 208
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043f5a8d7b88b430800000000000000
+      internalID: 3798939656995681287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_109
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 208
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4be57f5c6ac64780800000000000000
+      internalID: -8699043063412692148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_110
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 208
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6a5e83c59045d0800000000000000
+      internalID: -3080297477981967362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_111
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 208
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3810860860fc17e0800000000000000
+      internalID: -1793294222023976901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_112
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 208
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8fea4b989a93440800000000000000
+      internalID: 4916146877158586538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_113
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 208
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a44087d4798b20800000000000000
+      internalID: 3137167084359033083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_114
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 208
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9023102d15e1c0800000000000000
+      internalID: -4475138631125655766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_115
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 215
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d505f874723f162b0800000000000000
+      internalID: -5592921912187596707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_116
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 208
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2be322f29b2b70800000000000000
+      internalID: 8875349059346049889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_117
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70556a7bf222bf670800000000000000
+      internalID: 8573483903969809671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_118
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 208
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e615ed6d63dc10800000000000000
+      internalID: 2077124171910276991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491548ac48e055de0800000000000000
+      internalID: -1345152950204083820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 183
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09525c7db23323870800000000000000
+      internalID: 8661041296783517072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_121
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd280208f39f470800000000000000
+      internalID: 8428837997134404977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 183
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d68c1d908dfb36d0800000000000000
+      internalID: -3009533197133510953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 183
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6317af4700e7b60800000000000000
+      internalID: 7745628911541761728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_124
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 183
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b93258eca48510800000000000000
+      internalID: 1550554285534197156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_125
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 158
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52c5ce49b1b9920800000000000000
+      internalID: 2998020303379768750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e84a19abdd9140800000000000000
+      internalID: 4728176703145828707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_127
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066b8a40addf4de0800000000000000
+      internalID: -1346614083045333496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7c31564d420390800000000000000
+      internalID: -7853629835774755865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f32a0a69e14a2f0800000000000000
+      internalID: -962610788061528163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_130
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 158
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba9284f839dc2cb0800000000000000
+      internalID: -4887292656960234832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_131
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 158
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b518a361405bba0800000000000000
+      internalID: -6073944028921898206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_132
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22481f37ec363bd0800000000000000
+      internalID: -2650864366767291858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_133
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 158
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49dc441681d02b0800000000000000
+      internalID: -5616806354215922448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_134
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 158
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529e396564bde1f0800000000000000
+      internalID: -1013955993438088622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_135
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 158
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaca18d44d0921e0800000000000000
+      internalID: -2222230351796057411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_136
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 158
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7541d58bc9edfe2e0800000000000000
+      internalID: -2094210537014619049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 158
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e3663f12e77760800000000000000
+      internalID: 7455676331819526270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_138
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 158
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d01635bf27bef0800000000000000
+      internalID: -92552811995148220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599becb7e333ae420800000000000000
+      internalID: 2659994873373833621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_140
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47103fe31a6e668a0800000000000000
+      internalID: -6312104247492935308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_141
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae2e051cd488560800000000000000
+      internalID: 7316183087344446159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_142
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bb15b436339fb0800000000000000
+      internalID: -4642307190884158917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_143
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 158
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f57dfce46e3c110800000000000000
+      internalID: 1280119945272188812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_144
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e81679620051bc40800000000000000
+      internalID: 5526286189049813218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_145
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 158
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcca84a6506a1da0800000000000000
+      internalID: -5973356030509527875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_146
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 158
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746c44b903b6e730800000000000000
+      internalID: 4028103770990470263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_147
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8dbd4353884db10800000000000000
+      internalID: 2005377496188180655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_148
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8282cd427723dc4d0800000000000000
+      internalID: -3112776280142239704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_149
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 158
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2de1d5a2f1ca6b0800000000000000
+      internalID: -5283813996001045784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_150
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 158
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f195e0745e822da0800000000000000
+      internalID: -5971053662617366023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_151
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 158
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbce52db388f1180800000000000000
+      internalID: -9142438928024941601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_152
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 161
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c4405789937c90800000000000000
+      internalID: -7173220975024750117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c625ba4362ac30800000000000000
+      internalID: 4369163761020749647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 132
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35cd6fd03bd2550800000000000000
+      internalID: 6137758739733435365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_155
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 132
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d3144cf16afb60800000000000000
+      internalID: 7780639042337756733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_156
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 132
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f814575a92740b7e0800000000000000
+      internalID: -1751822010851966577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 132
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c26e248b1abc0b0800000000000000
+      internalID: -5707290289993536419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_158
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41033ec3e93ab44f0800000000000000
+      internalID: -843400605180153836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_159
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 132
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d19fea10e40b00800000000000000
+      internalID: 794005840617133826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_160
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a58711ec6a9e70800000000000000
+      internalID: 9122723709210435865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_161
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 132
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc927c8ea93b4dc0800000000000000
+      internalID: -3653763250837611316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_162
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 132
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ba624bb6ac91a0800000000000000
+      internalID: -6801378014032907920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_163
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa1c39e12978740800000000000000
+      internalID: 5154248958574439081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_164
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 132
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f6feccd6b25130800000000000000
+      internalID: 3554104115430093548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_165
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 132
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b8ce65a6ec23c0800000000000000
+      internalID: -4382874739135696167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_166
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 132
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba214c12b7cfd2a0800000000000000
+      internalID: -6710425351966610765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_167
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32edd751cc4b510800000000000000
+      internalID: 1564099363282494397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_168
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a8d05193cb9df70800000000000000
+      internalID: 9212601466115426877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_169
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e6de2512995980800000000000000
+      internalID: -8549641797908372269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_170
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18c9259a54714a0800000000000000
+      internalID: -6622748133487246926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_171
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3b5f234b104a90800000000000000
+      internalID: -7331830217987899846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f018a6343147156d0800000000000000
+      internalID: -3003491850395156209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c890e5e2b5f3010800000000000000
+      internalID: 1170754682843925552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_174
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a5913c7e9c55f0800000000000000
+      internalID: -766563580314802499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_175
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4dffbbe379e2910800000000000000
+      internalID: 1814553995574760637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_176
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 108
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a71dcdfda53a90800000000000000
+      internalID: -7334765112523775125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_177
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 108
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdece220b259fc20800000000000000
+      internalID: 3240712323323456952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 108
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de784601b4a0e5fa0800000000000000
+      internalID: -5810195151747512339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_179
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 108
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a786974b6dac90800000000000000
+      internalID: -7156946277609529136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_180
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d51954061b25e0800000000000000
+      internalID: -1933427407095212749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_181
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 108
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a434f5097703ef20800000000000000
+      internalID: 3450609955868259493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_182
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 108
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb39c1d388276d50800000000000000
+      internalID: 6730392714753948668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_183
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b7f9d467800310800000000000000
+      internalID: 1369243153943999478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_184
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b908a198a54f80800000000000000
+      internalID: -8122901009349888108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_185
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238c98d494083db0800000000000000
+      internalID: -4812091164509568221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_186
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f879a454674640800000000000000
+      internalID: 5064126620784720252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87140f887669a0dc0800000000000000
+      internalID: -3671957174743973512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_188
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 82
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c50526233b0730800000000000000
+      internalID: 3966320135752762116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_189
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 84
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5279b60e7b33bc90800000000000000
+      internalID: -7155309970496851361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_190
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f5093e3db099a0800000000000000
+      internalID: -6228270209711082079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_191
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 84
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6e7b4fd1008e70800000000000000
+      internalID: 9115287704353795031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_192
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd6adcb639c11130800000000000000
+      internalID: 3535828419396398591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_193
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a685dbef2d71f20800000000000000
+      internalID: 3393412835787172425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_194
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e072ac2aa2aa3e80800000000000000
+      internalID: -8198061319897583388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_195
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25690fe4de28fa1d0800000000000000
+      internalID: -3337304843114998190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_196
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f0fbe05c700ca0800000000000000
+      internalID: -6052701212188282763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103db1692eaa4be0800000000000000
+      internalID: -1492188833763217391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_198
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 56
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6812f9b79cc510800000000000000
+      internalID: 1570797194931891294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_199
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6ca0c64426b890800000000000000
+      internalID: -7442721447884330482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_200
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb691800faeb870800000000000000
+      internalID: 8700583946835377685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_201
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 56
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16f49fdc5fdb8a0800000000000000
+      internalID: -6287599239739514373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_202
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20869634c66d5ae20800000000000000
+      internalID: 3361328457377736706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_203
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 56
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0663852a03d2b6270800000000000000
+      internalID: 8244733229737195104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_204
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 56
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0944a59c2e07fb90800000000000000
+      internalID: -7208277093931267825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_205
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d4766046eeffed0800000000000000
+      internalID: -2377919964856759037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_206
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5f4ac110b6eb60800000000000000
+      internalID: 7775095397156870733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_207
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95bfa18e04936b0800000000000000
+      internalID: -5316146519504889383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_208
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708de5081943d830800000000000000
+      internalID: 4094696853737406590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_209
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e10de8e7256250800000000000000
+      internalID: 5937195565120088090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_210
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d15c400498971f0800000000000000
+      internalID: -1046654530335990425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_211
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 22
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c58d23425607f7f0800000000000000
+      internalID: -578987076709677629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_212
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 26
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726db3539a2abe10800000000000000
+      internalID: 2214128979059499639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_213
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fff03bf022f4010800000000000000
+      internalID: 1175195478591012743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_214
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2
+        width: 119
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36434d127793800800000000000000
+      internalID: 592635813153760179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_215
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278fc5f1b53f621e0800000000000000
+      internalID: -2222821793367000974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_216
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 6
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fab8991c6fe6170800000000000000
+      internalID: 8173741685089218329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_217
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8b335a42f0ee60800000000000000
+      internalID: 7989652139993172754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_218
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92d32797703bd30800000000000000
+      internalID: 4445905475333859799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_219
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee794e588c0ceb0800000000000000
+      internalID: -4701537533583430076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_220
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66eb8d22cd4b7440800000000000000
+      internalID: 4934623313097647726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_221
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abdff1b67bf69a0800000000000000
+      internalID: -6237565288158741989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_222
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d5fbdfc8c3e4af0800000000000000
+      internalID: -410323939793871464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_223
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7120da4ba98f20800000000000000
+      internalID: 3425457329399758544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_224
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174cdb44c1c979120800000000000000
+      internalID: 2420574969961235569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_225
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6b7d28f7076640800000000000000
+      internalID: 5073032267752500482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_226
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca604dda695fd40800000000000000
+      internalID: 5617561783545277475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_227
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321fb1dadf721c50800000000000000
+      internalID: 6634505778868720185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_228
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b8333a9dce65660800000000000000
+      internalID: 7374341859355888530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_229
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084deaed338818220800000000000000
+      internalID: 2486418225645933696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_230
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7777a2c9589a2410800000000000000
+      internalID: 1453141341065672572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_231
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706aa8fdaa29281d0800000000000000
+      internalID: -3349953910217726457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_232
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a3a0f6367285d90800000000000000
+      internalID: -7108888703786141047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_233
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3950a708fbf850800000000000000
+      internalID: 6411991206130694826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_234
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468fdd005315b5970800000000000000
+      internalID: 8744672389559613540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_235
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d210c3e3abd62be40800000000000000
+      internalID: 5670715527488340269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_236
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27717809994fd6780800000000000000
+      internalID: -8688019165735872654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_237
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68682a87b77923190800000000000000
+      internalID: -7984152632813779322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_238
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c2d3b3b8c00b00800000000000000
+      internalID: 792854208558842274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_239
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5022cad09bd8869f0800000000000000
+      internalID: -474973934749736443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_240
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ba98dc974ba9e0800000000000000
+      internalID: -1609113702880333712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Planet Centauri - Shiba_241
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a2454d47805f500800000000000000
+      internalID: 429258637355264602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
