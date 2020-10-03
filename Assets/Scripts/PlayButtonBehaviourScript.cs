@@ -1,7 +1,7 @@
 ﻿/***********************************************************************;
 *Project            : Shiba Scramble
 *
-*Program name       : "StartButtonBehaviourScript.cs"
+*Program name       : "PlayButtonBehaviourScript.cs"
 *
 * Author            : David Gasinec
 * 
@@ -24,7 +24,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class StartButtonBehaviourScript : MonoBehaviour
+public class PlayButtonBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -38,9 +38,9 @@ public class StartButtonBehaviourScript : MonoBehaviour
         
     }
 
-    public void OnstartButtonPressed()
+    public void OnPlayButtonPressed()
     {
-        Debug.Log("Start Button Pressed.");
-        SceneManager.LoadScene("MainMenu");
+        Debug.Log("The play button has been pressed.");
+        SceneManager.LoadScene("GameLevelScreen");
     }
 }

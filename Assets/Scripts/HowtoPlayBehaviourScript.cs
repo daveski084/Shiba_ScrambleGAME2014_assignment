@@ -1,17 +1,17 @@
 ﻿/***********************************************************************;
-*Project            : Shiba Scramble
+* Project           : Shiba Scramble
 *
-*Program name       : "StartButtonBehaviourScript.cs"
+* Program name      : "HowtoPlayBehaviourScript.cs"
 *
 * Author            : David Gasinec
 * 
 * Student Number    : 101187910
 *
-*Date created       : 20/10/03
+* Date created      : 20/10/03
 *
-*Description        : Load scenes with button press.
+* Description       : Load scenes with button press.
 *
-*Last modified      : 20/10/03
+* Last modified     : 20/10/03
 *
 * Revision History  :
 *
@@ -24,7 +24,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class StartButtonBehaviourScript : MonoBehaviour
+public class HowtoPlayBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -38,9 +38,9 @@ public class StartButtonBehaviourScript : MonoBehaviour
         
     }
 
-    public void OnstartButtonPressed()
+    public void OnHowToPlayButtonPressed()
     {
-        Debug.Log("Start Button Pressed.");
-        SceneManager.LoadScene("MainMenu");
+        Debug.Log("The how to play button has been pressed.");
+        SceneManager.LoadScene("InstructionsScreen");
     }
 }

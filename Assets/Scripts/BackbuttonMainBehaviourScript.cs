@@ -1,15 +1,17 @@
 ﻿/***********************************************************************;
 *Project            : Shiba Scramble
 *
-*Program name       : BackbuttonMainBehaviourScript
+*Program name       : "BackbuttonMainBehaviourScript.cs"
 *
 * Author            : David Gasinec
 * 
 * Student Number    : 101187910
 *
-* Date created      : 20/10/03
+*Date created       : 20/10/03
 *
 *Description        : Load scenes with button press.
+*
+*Last modified      : 20/10/03
 *
 * Revision History  :
 *
