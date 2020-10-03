@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TitleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1c5a6bb211a0f734594a7fbfbea611fb
+  - enabled: 1
+    path: Assets/Scenes/InstructionsScreen.unity
+    guid: dd95d12fa51c83345a2e75f77e7bbd47
+  - enabled: 1
+    path: Assets/Scenes/GameLevelScreen.unity
+    guid: 5b228f395a325d242ac0d6f6f05469a1
+  - enabled: 1
+    path: Assets/Scenes/GameOverScreen.unity
+    guid: b20046eca6d8eb340a7660f8bce39182
   m_configObjects: {}
