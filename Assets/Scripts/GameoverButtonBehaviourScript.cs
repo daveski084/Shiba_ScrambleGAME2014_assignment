@@ -1,7 +1,7 @@
 ﻿/***********************************************************************;
 * Project           : Shiba Scramble
 *
-* Program name      : "QuitButtonBehaviourScript.cs"
+* Program name      : "GameoverButtonBehaviourScript.cs"
 *
 * Author            : David Gasinec
 * 
@@ -22,8 +22,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class QuitButtonBehaviourScript : MonoBehaviour
+public class GameoverButtonBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -35,5 +36,11 @@ public class QuitButtonBehaviourScript : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void OnGameOverButtonPressed()
+    {
+        Debug.Log("Going to game over screen.");
+        SceneManager.LoadScene("GameOverScreen");
     }
 }
