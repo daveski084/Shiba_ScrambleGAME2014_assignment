@@ -38,9 +38,15 @@ public class BacktoMainBehaviourScript : MonoBehaviour
         
     }
 
+    private IEnumerator WaitForSceneLoad()
+    {
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadScene("TitleScene");
+    }
+
     public void OnQuitToMainButtonPressed()
     {
         Debug.Log("The quit button has been pressed. Going back to title");
-        SceneManager.LoadScene("TitleScene");
+        StartCoroutine(WaitForSceneLoad());
     }
 }

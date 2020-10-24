@@ -38,9 +38,15 @@ public class BackFromInfoBehaviourScript : MonoBehaviour
 
     }
 
+    private IEnumerator WaitForSceneLoad()
+    {
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadScene("MainMenu");
+    }
+
     public void OnInfoBackButtonPressed()
     {
         Debug.Log("Going back to main menu.");
-        SceneManager.LoadScene("MainMenu");
+        StartCoroutine(WaitForSceneLoad());
     }
 }

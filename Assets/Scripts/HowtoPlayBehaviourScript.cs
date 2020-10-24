@@ -38,9 +38,15 @@ public class HowtoPlayBehaviourScript : MonoBehaviour
         
     }
 
+    private IEnumerator WaitForSceneLoad()
+    {
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadScene("InstructionsScreen");
+    }
+
     public void OnHowToPlayButtonPressed()
     {
         Debug.Log("The how to play button has been pressed.");
-        SceneManager.LoadScene("InstructionsScreen");
+        StartCoroutine(WaitForSceneLoad());
     }
 }

@@ -39,9 +39,15 @@ public class BackbuttonMainBehaviourScript : MonoBehaviour
         
     }
 
+    private IEnumerator WaitForSceneLoad()
+    {
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadScene("TitleScene");
+    }
+
     public void OnBackButtonPressed()
     {
         Debug.Log("The back button has been pressed.");
-        SceneManager.LoadScene("TitleScene");
+        StartCoroutine(WaitForSceneLoad());
     }
 }

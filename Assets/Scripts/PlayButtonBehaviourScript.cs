@@ -44,7 +44,7 @@ public class PlayButtonBehaviourScript : MonoBehaviour
         SceneManager.LoadScene("GameLevelScreen");
     }
 
-        public void OnPlayButtonPressed()
+    public void OnPlayButtonPressed()
     {
         Debug.Log("The play button has been pressed.");
         StartCoroutine(WaitForSceneLoad());
