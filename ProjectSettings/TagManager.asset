@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BoneBullet
+  - DogFood
+  - Enemy1
+  - Enemy2
   layers:
   - Default
   - TransparentFX
