@@ -1,7 +1,27 @@
-﻿using System.Collections;
+﻿/***********************************************************************;
+* Project            : Shiba Scramble
+*
+* Author             : David Gasinec
+* 
+* Student Number     : 101187910
+*
+* Date created       : 20/10/22
+*
+* Description        : Controls the spawning of enemy waves.
+*
+* Last modified      : 20/10/25
+*
+* Revision History   :
+*
+*Date        Author Ref    Revision (Date in YYYYMMDD format) 
+*201024    David Gasinec        Created script. 
+*
+|**********************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/** Controlls waves of enemies and spawns them. */
 public class EnemySpawner : MonoBehaviour
 {
     public float countDownTimer = 5.0f;
@@ -14,6 +34,7 @@ public class EnemySpawner : MonoBehaviour
     private float yieldTime = 20.0f;
     private float yieldTime2 = 80.0f;
 
+    /** Spawns waves, using coroutinues so a delay can be added.*/
     void Update()
     {
         if (time <= 0)
@@ -26,6 +47,7 @@ public class EnemySpawner : MonoBehaviour
         time -= Time.deltaTime;
     }
 
+    /** Spawns enemies each wave. Adds a delay so they dont bunch together as much. */
     IEnumerator SpawnEnemyWave()
     {
         waveIndex++;
@@ -45,6 +67,8 @@ public class EnemySpawner : MonoBehaviour
             yield return new WaitForSeconds(yieldTime2);
         }
     }
+
+    /**Spawns enemies. */
     void SpawnEnemy()
     {
         Instantiate(enemy1Prefab, spawnLocation.position, spawnLocation.rotation);

@@ -1,22 +1,21 @@
 ﻿/***********************************************************************;
 * Project            : Shiba Scramble
 *
-* Program name       : "PlayButtonBehaviourScript.cs"
-*
 * Author             : David Gasinec
 * 
 * Student Number     : 101187910
 *
 * Date created       : 20/10/22
 *
-* Description        : Load scenes with button press.
+* Description        : Makes the crosshair follow mouse position and fires projectiles.
 *
-* Last modified      : 20/10/03
+* Last modified      : 20/10/25
 *
 * Revision History   :
 *
 *Date        Author Ref    Revision (Date in YYYYMMDD format) 
-*201003    David Gasinec        Created script. 
+*201023    David Gasinec        Created script. 
+*201025    David Gasinec        Updated documentation.
 *
 |**********************************************************************/
 
@@ -24,6 +23,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/** Controlls the crosshair so it follows the mouse and slows down button clicks. */
 public class AimBehaviour : MonoBehaviour
 {
     public GameObject player;
@@ -35,31 +35,34 @@ public class AimBehaviour : MonoBehaviour
 
     private Vector3 mTargetPoint;
     private bool mouseLock;
-    
-    
- 
+
+
+    /** Makes the cursor hidden from the main camera */
     void Start()
     {
         Cursor.visible = false;
     }
 
+    /** Unlocks the mouse input. */
     void UnlockInput()
     {
         mouseLock = false;
     }
 
+    /** Locks mouse input. */
     void LockInput()
     {
         mouseLock = true;
         Invoke("UnlockInput", lockTime);
     }
 
+    /** Boolean flag for mouse lock. */
     public bool isMouseLocked()
     {
         return mouseLock;
     }
 
-
+    /** Update */
     void Update()
     {
         // Get the target to follow the mouse
@@ -69,6 +72,7 @@ public class AimBehaviour : MonoBehaviour
         Vector3 difference = mTargetPoint - player.transform.position;
         float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
 
+        /** Get the crosshair to follow mouse position. */
         if (Input.GetMouseButtonDown(0))
         {
             if (isMouseLocked())
@@ -77,7 +81,6 @@ public class AimBehaviour : MonoBehaviour
             }
             else
             {
-                // StartCoroutine(SlowMouseDown());
                 //Fire projectile
                 shootingSoundSource.Play();
                 float distance = difference.magnitude;
@@ -89,7 +92,7 @@ public class AimBehaviour : MonoBehaviour
             }
         }
 
-
+        /** Fire projectile.*/
         void FireBoneBullet(Vector2 direction, float rotZ)
         {
             GameObject boneBullet = Instantiate(boneBulletPrefab) as GameObject;

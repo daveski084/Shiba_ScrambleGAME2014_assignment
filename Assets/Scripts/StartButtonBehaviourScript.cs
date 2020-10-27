@@ -1,22 +1,21 @@
 ﻿/***********************************************************************;
-*Project            : Shiba Scramble
+* Project            : Shiba Scramble
 *
-*Program name       : "StartButtonBehaviourScript.cs"
-*
-* Author            : David Gasinec
+* Author             : David Gasinec
 * 
-* Student Number    : 101187910
+* Student Number     : 101187910
 *
-*Date created       : 20/10/03
+* Date created       : 20/10/22
 *
-*Description        : Load scenes with button press.
+* Description        : Load scenes with button press.
 *
-*Last modified      : 20/10/03
+* Last modified      : 20/10/25
 *
-* Revision History  :
+* Revision History   :
 *
 *Date        Author Ref    Revision (Date in YYYYMMDD format) 
 *201003    David Gasinec        Created script. 
+*201025    David Gasinec        Updated documentation.
 *
 |**********************************************************************/
 using System.Collections;
@@ -24,20 +23,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/** Button click functionality. */
 public class StartButtonBehaviourScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    /** Makes the button change scenes. */
     public void OnstartButtonPressed()
     {
         Debug.Log("Start Button Pressed.");
